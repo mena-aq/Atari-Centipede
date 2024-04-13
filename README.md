@@ -24,4 +24,6 @@ g++ Centipede.o -o sfml-app -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-sy
   * Initial release
   * Functionality to record scores for future gameplay not yet added
 
-  ## Enjoy your gameplay !! 
+  ## Enjoy your gameplay !!
+  ![image](https://github.com/mena-aq/Atari-Centipede/assets/156236313/d47eafb9-b3b6-4c50-8839-38860b23c8d2)
+
